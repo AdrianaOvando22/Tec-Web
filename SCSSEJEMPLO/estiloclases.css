@@ -1,0 +1,7 @@
+cajas{
+    width: 250px;
+    height: 250px;
+   border: 1px solid red;
+    background-color: orange;
+    background-color: rgb(red, green, blue);
+}
