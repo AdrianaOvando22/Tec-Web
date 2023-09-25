@@ -1,0 +1,34 @@
+.cajas{
+    width: 250px;
+    height: 250px;
+   border: 1px solid red;
+    background-color: orange;
+    background-color: rgb(red, green, blue);
+}
+
+.color1{
+    width: 400px;
+   height: 60px;
+   background-color: #016A70;
+}
+.color2{
+    width: 400px;
+    height: 60px;
+   background-color:#FFFFDD;
+}
+.color3{
+    width: 400px;
+   height: 60px;
+   background-color:#D2DE32;
+}
+.color4{
+    width: 400px;
+   height: 60px;
+   background-color:#A2C579;
+}
+
+.color5{
+    width: 400px;
+   height: 60px;
+   background-color: hsl(130, 72%, 55%);
+}
